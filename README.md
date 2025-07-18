@@ -1,14 +1,14 @@
-# Hi, I'm Shreyash Dayma
+# Hi, I'm Shreyash Dayma 
 
-🎓 MCA Student | Specializing in **Data Science** & **Generative AI**  
-   Passionate about solving real-world problems through tech  
-   Focused on building smart, human-centric AI applications
+MCA Student | Specializing in **Data Science** & **Generative AI**  
+Passionate about solving real-world problems through tech  
+Focused on building smart, human-centric AI applications
 
 [GitHub](https://github.com/shreyashdayma) • [LinkedIn](linkedin.com/in/shreyash-dayma) • [Portfolio](https://sheryash-dayma.netlify.app/)
 
 ---
 
-## About Me
+## About Me 🎓
 
 I'm currently pursuing my Master of Computer Applications and deeply interested in AI, ML, and Full Stack Development. I’ve worked on diverse projects ranging from intelligent study planners to predictive systems, and have also conducted workshops on AI and participated in national-level hackathons.
 
