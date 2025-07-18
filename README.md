@@ -56,8 +56,8 @@ I enjoy building apps that blend technology with creativity — especially those
 ## 📫 Let's Connect
 
 📧 Email: **shreyashdayama75@gmail.com**  
-🔗 Linked In: [linkedin.com/in/shreyash-dayma](linkedin.com/in/shreyash-dayma)  
-🌐 Portfolio: [https://yourportfolio.com](https://sheryash-dayma.netlify.app/)
+🔗 Linked In: [shreyash-dayma](linkedin.com/in/shreyash-dayma)  
+🌐 Portfolio: [Sheryash-Dayma](https://sheryash-dayma.netlify.app/)
 
 ---
 
