@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Shreyash Dayma
+# Hi, I'm Shreyash Dayma
 
-🎓 MCA Student | 💡 Specializing in **Data Science** & **Generative AI**  
-🚀 Passionate about solving real-world problems through tech  
-🛠️ Focused on building smart, human-centric AI applications
+🎓 MCA Student | Specializing in **Data Science** & **Generative AI**  
+   Passionate about solving real-world problems through tech  
+   Focused on building smart, human-centric AI applications
 
 [GitHub](https://github.com/shreyashdayma) • [LinkedIn](linkedin.com/in/shreyash-dayma) • [Portfolio](https://sheryash-dayma.netlify.app/)
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm currently pursuing my Master of Computer Applications and deeply interested in AI, ML, and Full Stack Development. I’ve worked on diverse projects ranging from intelligent study planners to predictive systems, and have also conducted workshops on AI and participated in national-level hackathons.
 
@@ -16,7 +16,7 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ---
 
-## 🔭 Projects I've Built
+## Projects I've Built
 
 - 📚 **AI-Powered Study Planner** – Personalized learning paths using RAG + LLM  
 - 📝 **Intelligent PDF Summarizer** – Summarizes scanned content using OCR + LLM  
@@ -56,7 +56,7 @@ I enjoy building apps that blend technology with creativity — especially those
 ## 📫 Let's Connect
 
 📧 Email: **shreyashdayama75@gmail.com**  
-🔗 [LinkedIn](linkedin.com/in/shreyash-dayma)  
+🔗 Linked In: [linkedin.com/in/shreyash-dayma](linkedin.com/in/shreyash-dayma)  
 🌐 Portfolio: [https://yourportfolio.com](https://sheryash-dayma.netlify.app/)
 
 ---
@@ -88,7 +88,7 @@ I enjoy building apps that blend technology with creativity — especially those
 ## 🌍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/?username=Shreyash-Dayma&bg=0D1117&color=1DB954&line=39FF14&point=FFFFFF" width="100%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shreyash-Dayma&bg_color=0d1117&color=1db954&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 
