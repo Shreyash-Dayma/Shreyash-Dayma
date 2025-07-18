@@ -88,9 +88,8 @@ I enjoy building apps that blend technology with creativity — especially those
 ## 🌍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shreyash-Dayma&bg_color=0d1117&color=1db954&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyash-Dayma&bg_color=0d1117&color=1db954&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
-
 
 ---
 
