@@ -93,10 +93,10 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ---
 
-## 💡 Quote of the Day
+##  Quote of the Day
 
 > *"The best way to predict the future is to invent it."* — Alan Kay
 
 ---
 
-⭐️ Thanks for visiting my GitHub — feel free to explore my work and reach out!
+ Thanks for visiting my GitHub — feel free to explore my work and reach out!
