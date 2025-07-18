@@ -35,7 +35,7 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ---
 
-## 📖 Learning Goals
+## Learning Goals
 
 - Building **iOS-ready apps** using Flutter from Ubuntu  
 - Mastering **LLMs, RAG pipelines**, and advanced prompt engineering  
@@ -44,7 +44,7 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 - Generative AI (LLMs, RAG)  
 - Image Processing & OCR  
@@ -53,7 +53,7 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 📧 Email: **shreyashdayama75@gmail.com**  
 🔗 Linked In: [shreyash-dayma](linkedin.com/in/shreyash-dayma)  
@@ -61,7 +61,7 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ---
 
-## ⚙️ Languages & Tools
+## ⚙ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
@@ -76,7 +76,7 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyash-Dayma&show_icons=true&theme=tokyonight" width="49%" />
@@ -85,7 +85,7 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ---
 
-## 🌍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyash-Dayma&bg_color=0d1117&color=1db954&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%" />
