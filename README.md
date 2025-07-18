@@ -23,10 +23,13 @@ I enjoy building apps that blend technology with creativity — especially those
 - 💬 **Career Path Chatbot** – Guides students using LLM and real data  
 - 📈 **Stock Market Prediction System** –  
   Developed binary classifiers (Random Forest, Logistic Regression) to forecast market direction with **76% accuracy**. Integrated with **real-time financial APIs** for data processing and visualization.
+
+    **Tech Stack:**  
+  `Python` • `Scikit-learn` • `Pandas` • `yfinance` • `HTML/CSS/JS`
+  
 - 🚞 **Personalized AGENTIC AI TRIP PLANNER** - Generates custom travel itineraries using user preferences and real-time location data with LLM-powered recommendations.
 
-  **Tech Stack:**  
-  `Python` • `Scikit-learn` • `Pandas` • `yfinance` • `HTML/CSS/JS`
+
 
 <!-- 🔗 [Live Demo](https://yourappdemo.com) -->
 
@@ -76,8 +79,8 @@ I enjoy building apps that blend technology with creativity — especially those
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyashdayma&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shreyashdayma&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyash-Dayma&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreyash-Dayma&theme=tokyonight" width="49%" />
 </p>
 
 ---
@@ -85,8 +88,9 @@ I enjoy building apps that blend technology with creativity — especially those
 ## 🌍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/?username=shreyashdayma&bg=0D1117&color=1DB954&line=39FF14&point=FFFFFF" width="100%" />
+  <img src="https://github-contribution-graph.vercel.app/?username=Shreyash-Dayma&bg=0D1117&color=1DB954&line=39FF14&point=FFFFFF" width="100%" />
 </p>
+
 
 ---
 
