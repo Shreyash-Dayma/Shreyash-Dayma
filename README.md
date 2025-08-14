@@ -8,7 +8,7 @@ Focused on building smart, human-centric AI applications
 
 ---
 
-## About Me 🎓
+## About Me 
 
 I'm currently pursuing my Master of Computer Applications and deeply interested in AI, ML, and Full Stack Development. I’ve worked on diverse projects ranging from intelligent study planners to predictive systems, and have also conducted workshops on AI and participated in national-level hackathons.
 
@@ -18,10 +18,10 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ## Projects I've Built
 
-- 📚 **AI-Powered Study Planner** – Personalized learning paths using RAG + LLM  
-- 📝 **Intelligent PDF Summarizer** – Summarizes scanned content using OCR + LLM  
-- 💬 **Career Path Chatbot** – Guides students using LLM and real data  
-- 📈 **Stock Market Prediction System** –  
+- **AI-Powered Study Planner** – Personalized learning paths using RAG + LLM  
+- **Intelligent PDF Summarizer** – Summarizes scanned content using OCR + LLM  
+- **Career Path Chatbot** – Guides students using LLM and real data  
+- **Stock Market Prediction System** –  
   Developed binary classifiers (Random Forest, Logistic Regression) to forecast market direction with **76% accuracy**. Integrated with **real-time financial APIs** for data processing and visualization.
 
     **Tech Stack:**  
