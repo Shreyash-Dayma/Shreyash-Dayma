@@ -55,13 +55,13 @@ I enjoy building apps that blend technology with creativity — especially those
 
 ## Let's Connect
 
-📧 Email: **shreyashdayama75@gmail.com**  
-🔗 Linked In: [shreyash-dayma](linkedin.com/in/shreyash-dayma)  
-🌐 Portfolio: [Sheryash-Dayma](https://sheryash-dayma.netlify.app/)
+Email: **shreyashdayama75@gmail.com**  
+Linked In: [shreyash-dayma](linkedin.com/in/shreyash-dayma)  
+Portfolio: [Sheryash-Dayma](https://sheryash-dayma.netlify.app/)
 
 ---
 
-## ⚙ Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
